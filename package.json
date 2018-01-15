@@ -1,0 +1,16 @@
+{
+  "name": "find-chrome-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node random.runner.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromeless": "^1.4.0",
+    "jest": "^22.1.1"
+  }
+}
